@@ -1,0 +1,10 @@
+[
+  {
+    "package": "GWnnegPCA",
+    "oncran": true
+  },
+  {
+    "package": "GWpcor",
+    "oncran": true
+  }
+]

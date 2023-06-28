@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GWnnegPCA"]
 	path = GWnnegPCA
 	url = https://github.com/naru-t/gwnnegpca
-	shallow = true
-	registered = true
 [submodule "GWpcor"]
 	path = GWpcor
 	url = https://github.com/naru-t/gwpcor
-	shallow = true
-	registered = true

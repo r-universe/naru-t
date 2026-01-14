@@ -5,6 +5,3 @@
 [submodule "GWnnegPCA"]
 	path = GWnnegPCA
 	url = https://github.com/naru-t/gwnnegpca
-[submodule "GWpcor"]
-	path = GWpcor
-	url = https://github.com/naru-t/gwpcor
